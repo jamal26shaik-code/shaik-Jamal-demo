@@ -1,3 +1,4 @@
 # shaik-Jamal-demo
-This is my first github repository
-Author- Shaik Jamal Basha
+This is my first github repository.
+<br>
+Author- Shaik Jamal Basha.
